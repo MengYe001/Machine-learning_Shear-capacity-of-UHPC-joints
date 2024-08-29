@@ -4,4 +4,4 @@ Accurate prediction of the shear capacity of the UHPC joints is essential for th
 
 Title: Interpretable ensemble machine learning models for predicting the shear capacity of UHPC joints
 
-DOI:
+DOI:https://doi.org/10.1016/j.engstruct.2024.118443
